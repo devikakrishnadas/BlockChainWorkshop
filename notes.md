@@ -56,3 +56,5 @@ rai stones [1](https://www.forbes.com/sites/oliversmith/2018/03/23/blockchains-s
 [course on solidity](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners/lessons/4)
 
 [medium link tutorial](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+
+[link for more deets](https://blockchain.berkeley.edu/)
